@@ -1,6 +1,6 @@
 # MonoForm
 
-**MonoForm** is a tool for analyzing the conformational ensemble of single-chain proteins from MD simulations. It profiles monomeric states, backbone order, and structural flexibility—ideal for folding studies or IDP characterization.
+**MonoForm** is a tool for analyzing the conformational ensemble of single-chain proteins from MD simulations. It profiles monomeric states, backbone order, and structural flexibility—ideal for folding studies or Intrinsically Disordered Protein structure characterization.
 
 ## 🔧 Features
 - Calculates RMSD/Rg and secondary structure trends
