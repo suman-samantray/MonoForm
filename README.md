@@ -12,4 +12,4 @@
 
 ## 📌 Usage
 ```bash
-python monoform.py traj.xtc ref.pdb
+python LegendCodeMonomer_run.py traj.xtc ref.pdb
